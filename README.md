@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,tailwind,bootstrap,java,sql server" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,tailwind,bootstrap,java,mssql" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemini-create&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gemini-create&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
