@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm a MERN Stack Developer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Node+%2B+MongoDB;Junior+MERN+Developer;Turning+coffee+into+clean+code;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Node+%2B+MongoDB;MERN+Stack+Developer;Turning+coffee+into+clean+code;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,18 +12,21 @@
 
 ### 🚀 About Me
 
-- 💻 Web developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
+- 💻 Developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🎓 Final Year Computer Science Student
+- 🔭 Currently building **CakeHeaven** — a full-stack cake ordering website
 - 🌱 Sharpening my skills in secure backend design, clean API architecture, and React state management
 - ⚡ I like solving real bugs more than reading about them
-- 📫 Reach me: **[haniamubashar80@gmail.com]**
-- 🔗 LinkedIn: **[linkedin.com/in/hania-mubashar]**
+- 📫 Reach me: **haniamubashar80@gmail.com**
+- 🔗 LinkedIn: **[linkedin.com/in/hania-mubashar](https://linkedin.com/in/hania-mubashar)**
+- 🌐 Portfolio: **[portfolio-theta-mocha-57.vercel.app](https://portfolio-theta-mocha-57.vercel.app)**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,figma,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,tailwind,bootstrap,java,sql server" />
 </p>
 
 ---
@@ -41,10 +44,13 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 **[NextRole](https://github.com/gemini-create/NextRole)**
 A MERN-stack job application tracker with secure OTP-based password reset, JWT authentication, and a Kanban-style board for tracking job applications end-to-end.
+
+**[Memory Game](https://github.com/gemini-create/memory-game)**
+An interactive memory match card game built with React.js, where players test their memory by finding matching pairs of fruit emoji cards.
 
 ---
 
