@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm a MERN Stack Developer 👋</h1>
 
-<!--
-**gemini-create/gemini-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Node+%2B+MongoDB;Junior+MERN+Developer;Turning+coffee+into+clean+code;Always+shipping+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 💻 Web developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
+- 🌱 Sharpening my skills in secure backend design, clean API architecture, and React state management
+- ⚡ I like solving real bugs more than reading about them
+- 📫 Reach me: **[haniamubashar80@gmail.com]**
+- 🔗 LinkedIn: **[linkedin.com/in/hania-mubashar]**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,figma,tailwind,bootstrap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gemini-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-create&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gemini-create&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Project
+
+**[NextRole](https://github.com/gemini-create/NextRole)**
+A MERN-stack job application tracker with secure OTP-based password reset, JWT authentication, and a Kanban-style board for tracking job applications end-to-end.
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gemini-create/gemini-create/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gemini-create&style=flat-square&color=61DAFB" alt="Profile views" />
+</p>
