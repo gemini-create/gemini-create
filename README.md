@@ -14,12 +14,12 @@
 
 - 💻 Developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🎓 Final Year Computer Science Student
-- 🔭 Currently building **CakeHeaven** — a full-stack cake ordering website
+- 🔭 Currently building **Atlas** — a full-stack study workspace
 - 🌱 Sharpening my skills in secure backend design, clean API architecture, and React state management
 - ⚡ I like solving real bugs more than reading about them
 - 📫 Reach me: **haniamubashar80@gmail.com**
 - 🔗 LinkedIn: **[linkedin.com/in/hania-mubashar](https://linkedin.com/in/hania-mubashar)**
-- 🌐 Portfolio: **[portfolio-theta-mocha-57.vercel.app](https://portfolio-theta-mocha-57.vercel.app)**
+- 🌐 Portfolio: **[hania-portfolio-nu.vercel.app/](https://hania-portfolio-nu.vercel.app)**
 
 ---
 
@@ -45,6 +45,9 @@
 ---
 
 ### 📌 Featured Projects
+
+**[CakeGeaven](https://github.com/gemini-create/CakeHeaven)**
+A MERN-stack bakery application  with online ordering with secure token -based password reset, JWT authentication.
 
 **[NextRole](https://github.com/gemini-create/NextRole)**
 A MERN-stack job application tracker with secure OTP-based password reset, JWT authentication, and a Kanban-style board for tracking job applications end-to-end.
