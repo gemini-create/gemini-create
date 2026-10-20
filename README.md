@@ -1,18 +1,18 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=240&section=header&text=Hania%20Mubashar&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20AI%20Builder&descSize=19&descAlignY=60&descAlign=50" width="100%" alt="Hania Mubashar header" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0033,50:6a1b9a,100:e0529c&height=230&section=header&text=Hania%20Mubashar&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack&descSize=18&descAlignY=64" width="100%" alt="Hania Mubashar" />
 
 <a href="https://github.com/gemini-create">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=720&height=45&lines=Always+shipping+something+new;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=20&pause=1200&color=E0529C&center=true&vCenter=true&width=720&height=40&lines=Always+shipping+something+new;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://hania-portfolio-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/hania-mubashar"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
-<a href="mailto:haniamubashar80@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=61DAFB" alt="Email" /></a>
-<a href="https://github.com/gemini-create?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-1a1b27?style=for-the-badge&logo=githubsponsors&logoColor=61DAFB" alt="Open to work" /></a>
+<a href="https://hania-portfolio-nu.vercel.app"><img height="46" src="https://img.shields.io/badge/PORTFOLIO-6a1b9a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://linkedin.com/in/hania-mubashar"><img height="46" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:haniamubashar80@gmail.com"><img height="46" src="https://img.shields.io/badge/EMAIL-e0529c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://github.com/gemini-create"><img height="46" src="https://img.shields.io/badge/GITHUB-1a0033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -21,11 +21,7 @@
 <!-- ═════════════ ABOUT ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=About+Me" alt="About Me" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:62b6cb&height=2&section=header" width="120" alt="divider" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=C77DFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=About+Me" alt="About Me" />
 
 <p>
   Final-year Computer Science student building <b>full-stack web apps</b> with the MERN stack.<br/>
@@ -68,11 +64,7 @@
 <!-- ═════════════ TECH STACK ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Tech+Stack" alt="Tech Stack" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:62b6cb&height=2&section=header" width="120" alt="divider" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=C77DFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Tech+Stack" alt="Tech Stack" />
 
 <table align="center">
   <tr>
@@ -100,17 +92,13 @@
 <!-- ═════════════ FEATURED PROJECTS ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Featured+Projects" alt="Featured Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=C77DFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Featured+Projects" alt="Featured Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:62b6cb&height=2&section=header" width="120" alt="divider" />
-
-<br/><br/>
-
-<a href="https://github.com/gemini-create/CakeHeaven"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=CakeHeaven&theme=tokyonight&hide_border=true" alt="CakeHeaven" /></a>
-<a href="https://github.com/gemini-create/NextRole"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=NextRole&theme=tokyonight&hide_border=true" alt="NextRole" /></a>
+<a href="https://github.com/gemini-create/CakeHeaven"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=CakeHeaven&theme=radical&hide_border=true" alt="CakeHeaven" /></a>
+<a href="https://github.com/gemini-create/NextRole"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=NextRole&theme=radical&hide_border=true" alt="NextRole" /></a>
 <br/>
-<a href="https://github.com/gemini-create/memory-game"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=memory-game&theme=tokyonight&hide_border=true" alt="Memory Game" /></a>
-<a href="https://github.com/gemini-create/Gemstone-Gallery"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=Gemstone-Gallery&theme=tokyonight&hide_border=true" alt="Gemstone Gallery" /></a>
+<a href="https://github.com/gemini-create/memory-game"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=memory-game&theme=radical&hide_border=true" alt="Memory Game" /></a>
+<a href="https://github.com/gemini-create/Gemstone-Gallery"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=Gemstone-Gallery&theme=radical&hide_border=true" alt="Gemstone Gallery" /></a>
 
 </div>
 
@@ -119,18 +107,14 @@
 <!-- ═════════════ STATS ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=GitHub+Stats" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=C77DFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=GitHub+Stats" alt="GitHub Stats" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:62b6cb&height=2&section=header" width="120" alt="divider" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gemini-create&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-create&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gemini-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gemini-create&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=gemini-create&theme=radical&hide_border=true" alt="Streak stats" />
 
 </div>
 
@@ -139,11 +123,7 @@
 <!-- ═════════════ CONTRIBUTION SNAKE ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Contribution+Activity" alt="Contribution Activity" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:62b6cb&height=2&section=header" width="120" alt="divider" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=1200&pause=800&color=C77DFF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Contribution+Activity" alt="Contribution Activity" />
 
 <img src="https://raw.githubusercontent.com/gemini-create/gemini-create/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 
@@ -154,10 +134,6 @@
 <!-- ═════════════ FOOTER ═════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=1200&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Let's+build+something+together" alt="Let's build something together" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=1200&pause=1000&color=E0529C&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Let's+build+something+together" alt="Let's build something together" />
 
-<a href="mailto:haniamubashar80@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-61DAFB?style=for-the-badge&logo=gmail&logoColor=0d1b2a" alt="Get in touch" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:62b6cb&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+<a href="mailto:haniamubashar80@gmail.com"><img
