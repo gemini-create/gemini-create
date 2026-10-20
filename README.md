@@ -1,70 +1,132 @@
-<h1 align="center">Hi there, I'm a Full Stack Developer 👋</h1>
+<!-- ───────────── HEADER ───────────── -->
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hania%20Mubashar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500">
-</p>
+<a href="https://github.com/gemini-create">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Always+Shipping+Something+New;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://hania-portfolio-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://linkedin.com/in/hania-mubashar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:haniamubashar80@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=gemini-create&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" />
 
-- 💻 Developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🎓 Final Year Computer Science Student
-- 🔭 Currently building **FYP Project: Atlas** — a full-stack AI study workspace
-- 🌱 Sharpening my skills in secure backend design, clean API architecture, and React state management
-- ⚡ I like solving real bugs more than reading about them
-- 📫 Reach me: **haniamubashar80@gmail.com**
-- 🔗 LinkedIn: **[linkedin.com/in/hania-mubashar](https://linkedin.com/in/hania-mubashar)**
-- 🌐 Portfolio: **[hania-portfolio-nu.vercel.app/](https://hania-portfolio-nu.vercel.app)**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<!-- ───────────── ABOUT ───────────── -->
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,postman,tailwind,bootstrap,java,mssql" />
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+```js
+const hania = {
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  education: "Final Year CS Student",
+  currentlyBuilding: "Atlas: AI Study Workspace (FYP)",
+  focus: ["Secure backend design", "Clean API architecture", "React state management"],
+  motto: "I like solving real bugs more than reading about them",
+  openTo: ["Internships", "Collaborations", "Freelance"],
+};
+```
 
-### 📊 GitHub Stats
+</td>
+<td width="40%" valign="top">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gemini-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-create&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🔭 **Building:** FYP Project **Atlas**, a full-stack AI study workspace
+🌱 **Sharpening:** Auth flows, API design, state management
+⚡ **Style:** Ship, break, debug, repeat
+📫 **Reach me:** [haniamubashar80@gmail.com](mailto:haniamubashar80@gmail.com)
 
-<p align="center">
+</td>
+</tr>
+</table>
+
+<!-- ───────────── TECH STACK ───────────── -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mssql" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+
+</div>
+
+<!-- ───────────── FEATURED PROJECTS ───────────── -->
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/gemini-create/CakeHeaven">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=CakeHeaven&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/gemini-create/NextRole">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=NextRole&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/gemini-create/memory-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gemini-create&repo=memory-game&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Project | What it does | Highlights |
+|:--|:--|:--|
+| 🎂 **[CakeHeaven](https://github.com/gemini-create/CakeHeaven)** | MERN bakery app with online ordering | JWT auth, secure token-based password reset |
+| 💼 **[NextRole](https://github.com/gemini-create/NextRole)** | Job application tracker | OTP-based password reset, JWT auth, Kanban board |
+| 🧠 **[Memory Game](https://github.com/gemini-create/memory-game)** | Fruit-emoji memory match game | React.js, state-driven game logic |
+| 🚧 **Atlas** *(in progress)* | Full-stack AI study workspace (FYP) | MERN + AI integration |
+
+<!-- ───────────── STATS ───────────── -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gemini-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemini-create&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=gemini-create&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<br/>
 
-### 📌 Featured Projects
+<img src="https://github-profile-trophy.vercel.app/?username=gemini-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
-**[CakeGeaven](https://github.com/gemini-create/CakeHeaven)**
-A MERN-stack bakery application  with online ordering with secure token -based password reset, JWT authentication.
+</div>
 
-**[NextRole](https://github.com/gemini-create/NextRole)**
-A MERN-stack job application tracker with secure OTP-based password reset, JWT authentication, and a Kanban-style board for tracking job applications end-to-end.
+<!-- ───────────── ACTIVITY ───────────── -->
+## 📈 Contribution Activity
 
-**[Memory Game](https://github.com/gemini-create/memory-game)**
-An interactive memory match card game built with React.js, where players test their memory by finding matching pairs of fruit emoji cards.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gemini-create&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
+<details>
+<summary><b>🐍 Contribution Snake</b> (click to expand)</summary>
+<br/>
+<div align="center">
   <img src="https://raw.githubusercontent.com/gemini-create/gemini-create/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
+</details>
 
----
+<!-- ───────────── FOOTER ───────────── -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gemini-create&style=flat-square&color=61DAFB" alt="Profile views" />
-</p>
+### 🤝 Let's build something together
+
+<a href="mailto:haniamubashar80@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-61DAFB?style=for-the-badge&logo=maildotru&logoColor=black" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
