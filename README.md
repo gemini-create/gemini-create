@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm a MERN Stack Developer 👋</h1>
+<h1 align="center">Hi there, I'm a Full Stack Developer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+React+%2B+Node+%2B+MongoDB;MERN+Stack+Developer;Turning+coffee+into+clean+code;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 - 💻 Developer working across the **MERN stack** (MongoDB, Express, React, Node.js)
 - 🎓 Final Year Computer Science Student
-- 🔭 Currently building **Atlas** — a full-stack study workspace
+- 🔭 Currently building **FYP Project: Atlas** — a full-stack AI study workspace
 - 🌱 Sharpening my skills in secure backend design, clean API architecture, and React state management
 - ⚡ I like solving real bugs more than reading about them
 - 📫 Reach me: **haniamubashar80@gmail.com**
