@@ -1,7 +1,7 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a0033,50:6a1b9a,100:e0529c&height=230&section=header&text=Hania%20Mubashar&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack&descSize=18&descAlignY=64" width="100%" alt="Hania Mubashar" />
+<img src="https://raw.githubusercontent.com/gemini-create/gemini-create/main/assets/header.svg" width="100%" alt="Hania Mubashar" />
 
 <a href="https://github.com/gemini-create">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=20&pause=1200&color=E0529C&center=true&vCenter=true&width=720&height=40&lines=Always+shipping+something+new;Bug+hunter+by+day%2C+feature+builder+by+night;Architecting+scalable+web+applications;Let's+collaborate+and+build+something+awesome" alt="Typing SVG" />
@@ -54,8 +54,6 @@
     </td>
   </tr>
 </table>
-
-<sub>📫 <a href="mailto:haniamubashar80@gmail.com">haniamubashar80@gmail.com</a></sub>
 
 </div>
 
@@ -136,4 +134,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=1200&pause=1000&color=E0529C&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Let's+build+something+together" alt="Let's build something together" />
 
-<a href="mailto:haniamubashar80@gmail.com"><img
+<a href="mailto:haniamubashar80@gmail.com"><img height="46" src="https://img.shields.io/badge/GET%20IN%20TOUCH-e0529c?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+
+<img src="https://raw.githubusercontent.com/gemini-create/gemini-create/main/assets/footer.svg" width="100%" alt="footer" />
+
+</div>

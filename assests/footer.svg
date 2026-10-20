@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6a1b9a"/><stop offset="1" stop-color="#e0529c"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b0a63"/><stop offset="1" stop-color="#8e24aa"/>
+    </linearGradient>
+    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a0033"/><stop offset="1" stop-color="#4a148c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <path fill="url(#w1)" opacity="0.5" d="M0 70 Q250 25 500 70 T1000 70 T1500 70 T2000 70 L2000 150 L0 150 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <!-- middle wave -->
+  <path fill="url(#w2)" opacity="0.8" d="M0 85 Q250 125 500 85 T1000 85 T1500 85 T2000 85 L2000 150 L0 150 Z">
+    <animateTransform attributeName="transform" type="translate" from="-1000 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <!-- front wave -->
+  <path fill="url(#w3)" d="M0 105 Q250 75 500 105 T1000 105 T1500 105 T2000 105 L2000 150 L0 150 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="132" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4" fill="#f5d0ff" opacity="0.85">
+    THANKS FOR STOPPING BY
+    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
